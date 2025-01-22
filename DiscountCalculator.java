@@ -20,3 +20,4 @@ public class DiscountCalculator {
         System.out.printf("The discount amount is INR %.2f and final discounted fee is INR %.2f", discount, discountedFee);
     }
 }
+
