@@ -4,6 +4,12 @@
 
 a. Studied java documentation.<br>
 
-b. solved practice problems level 1 and level 2.<br><br>
+b. solved Programming elements practice problems level 1 and level 2.<br><br>
 *********************************************************************************************************************************************************************
 
+22 / jan / 2025<br><br>
+
+a. Studied java control flow documentation.<br>
+
+b. solved java control flow practice problems level 1 <br><br>
+*********************************************************************************************************************************************************************
