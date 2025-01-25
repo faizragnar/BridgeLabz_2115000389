@@ -18,3 +18,12 @@ b. solved java control flow practice problems level 1 <br><br>
 
 
 a. solved java control flow practice problems level 2 and level 3<br><br>
+
+*********************************************************************************************************************************************************************
+
+25 / jan / 2025<br><br>
+
+a. Studied Java Array documentation.<br>
+
+b. solved Array practice problems Level 1 and Level 2 <br><br>
+*********************************************************************************************************************************************************************
