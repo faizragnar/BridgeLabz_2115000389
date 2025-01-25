@@ -20,9 +20,9 @@ public class Q1StudentAge{
 						System.out.println(" Age cannot be negative");
 
 			}
-			else if( AgeArr[j] <18 ) System.out.println(" Studen with Age "+AgeArr[j] + " cannot vote");
+			else if( AgeArr[j] <18 ) System.out.println(" Student with Age "+AgeArr[j] + " cannot vote");
 			
-			else System.out.println(" Studen with Age "+AgeArr[j] + " can vote");
+			else System.out.println(" Student with Age "+AgeArr[j] + " can vote");
 		
 		}
 		
