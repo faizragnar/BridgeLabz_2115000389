@@ -1,9 +1,9 @@
 import java.util.Scanner;
 public class Q7BMICalculator2DArray {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of persons: ");
-        int numberOfPersons = scanner.nextInt();
+        int numberOfPersons = sc.nextInt();
         double[][] personData = new double[numberOfPersons][3];
         String[] weightStatus = new String[numberOfPersons];
         
@@ -11,7 +11,7 @@ public class Q7BMICalculator2DArray {
             System.out.println("Person " + (i + 1) + ":");
             do {
                 System.out.print("Enter height in meters (positive value): ");
-                personData[i][0] = scanner.nextDouble();
+                personData[i][0] = sc.nextDouble();
                 if (personData[i][0] <= 0) {
                     System.out.println("Height must be positive. Please try again.");
                 }
@@ -19,7 +19,7 @@ public class Q7BMICalculator2DArray {
             
             do {
                 System.out.print("Enter weight in kilograms (positive value): ");
-                personData[i][1] = scanner.nextDouble();
+                personData[i][1] = sc.nextDouble();
                 if (personData[i][1] <= 0) {
                     System.out.println("Weight must be positive. Please try again.");
                 }

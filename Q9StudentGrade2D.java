@@ -3,11 +3,11 @@ import java.util.Scanner;
 public class Q9StudentGrade2D {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
        
         System.out.print("Enter the number of students: ");
-        int numberOfStudents = scanner.nextInt();
+        int numberOfStudents = sc.nextInt();
 
         int[][] marks = new int[numberOfStudents][3]; 
         double[] percentages = new double[numberOfStudents]; 
@@ -22,7 +22,7 @@ public class Q9StudentGrade2D {
                 String subject = (j == 0) ? "Physics" : (j == 1) ? "Chemistry" : "Maths";
                 do {
                     System.out.print("Enter marks for " + subject );
-                    marks[i][j] = scanner.nextInt();
+                    marks[i][j] = sc.nextInt();
                     if (marks[i][j] < 0 || marks[i][j] > 100) {
                         System.out.println("Invalid marks. Please enter a value between 0 and 100.");
                     }

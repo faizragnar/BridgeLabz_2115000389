@@ -2,9 +2,9 @@ import java.util.Scanner;
 
 public class Q10DigitFrequency {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
-        String number = scanner.nextLine();
+        String number = sc.nextLine();
         
         int[] frequency = new int[10];
         
@@ -21,6 +21,5 @@ public class Q10DigitFrequency {
             }
         }
         
-        scanner.close();
     }
 }
