@@ -8,18 +8,17 @@ public class Q11_ZaraBonusCalculator {
         displayResults(updatedDetails);
     }
 
-    // Method to generate random salary and years of service for each employee
     public static double[][] generateEmployeeData(int numEmployees) {
         double[][] data = new double[numEmployees][2];
         Random random = new Random();
         for (int i = 0; i < numEmployees; i++) {
-            data[i][0] = random.nextInt(50000) + 10000; // Generate salary between 10000 and 59999
-            data[i][1] = random.nextInt(10) + 1; // Generate years of service between 1 and 10
+            data[i][0] = random.nextInt(50000) + 10000; 
+            data[i][1] = random.nextInt(10) + 1; 
         }
         return data;
     }
 
-    // Method to calculate bonus based on years of service
+
     public static double[][] calculateBonus(double[][] employeeDetails) {
         double[][] updatedDetails = new double[employeeDetails.length][3];
         for (int i = 0; i < employeeDetails.length; i++) {
@@ -35,7 +34,7 @@ public class Q11_ZaraBonusCalculator {
         return updatedDetails;
     }
 
-    // Method to display results in a tabular format
+
     public static void displayResults(double[][] updatedDetails) {
         System.out.println("Employee\tOld Salary\tBonus\tNew Salary");
         for (int i = 0; i < updatedDetails.length; i++) {
