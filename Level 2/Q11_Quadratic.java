@@ -12,19 +12,19 @@ public class Q11_Quadratic {
             double root = -b / (2 * a);
             return new double[]{root};
         } else {
-            return new double[0]; // No real roots
+            return new double[0];
         }
     }
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter value of a: ");
-        int a = scanner.nextInt();
+        int a = sc.nextInt();
         System.out.print("Enter value of b: ");
-        int b = scanner.nextInt();
+        int b = sc.nextInt();
         System.out.print("Enter value of c: ");
-        int c = scanner.nextInt();
+        int c = sc.nextInt();
 
         double[] roots = findRoots(a, b, c);
 

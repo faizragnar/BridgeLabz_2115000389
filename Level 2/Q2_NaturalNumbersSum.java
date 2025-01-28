@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class Q2_NaturalNumbersSum {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter a natural number: ");
-        int n = scanner.nextInt();
+        int n = sc.nextInt();
 
         if (n <= 0) {
             System.out.println("Invalid input. Please enter a natural number greater than 0.");

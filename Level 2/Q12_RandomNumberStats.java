@@ -3,7 +3,7 @@ public class Q12_RandomNumberStats {
     public static int[] generate4DigitRandomArray(int size) {
         int[] randomNumbers = new int[size];
         for (int i = 0; i < size; i++) {
-            randomNumbers[i] = (int) (Math.random() * 9000) + 1000; // Generating 4 digit random number
+            randomNumbers[i] = (int) (Math.random() * 9000) + 1000;
         }
         return randomNumbers;
     }

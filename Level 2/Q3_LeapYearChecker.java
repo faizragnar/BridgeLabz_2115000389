@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class Q3_LeapYearChecker {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter a year (>= 1582): ");
-        int year = scanner.nextInt();
+        int year = sc.nextInt();
 
         if (year < 1582) {
             System.out.println("Invalid input. The year must be 1582 or later.");

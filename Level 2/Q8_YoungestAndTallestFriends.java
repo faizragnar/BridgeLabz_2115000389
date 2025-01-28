@@ -27,25 +27,25 @@ public class Q8_YoungestAndTallestFriends {
     }
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         int[] ages = new int[3];
         double[] heights = new double[3];
 
         System.out.print("Enter Amar's age: ");
-        ages[0] = scanner.nextInt();
+        ages[0] = sc.nextInt();
         System.out.print("Enter Amar's height (in cm): ");
-        heights[0] = scanner.nextDouble();
+        heights[0] = sc.nextDouble();
 
         System.out.print("Enter Akbar's age: ");
-        ages[1] = scanner.nextInt();
+        ages[1] = sc.nextInt();
         System.out.print("Enter Akbar's height (in cm): ");
-        heights[1] = scanner.nextDouble();
+        heights[1] = sc.nextDouble();
 
         System.out.print("Enter Anthony's age: ");
-        ages[2] = scanner.nextInt();
+        ages[2] = sc.nextInt();
         System.out.print("Enter Anthony's height (in cm): ");
-        heights[2] = scanner.nextDouble();
+        heights[2] = sc.nextDouble();
 
         String youngest = findYoungest(ages);
         String tallest = findTallest(heights);
