@@ -34,3 +34,12 @@ a. Studied Java Method documentation.<br>
 
 b. solved Java method practice problems Level 1, 2 and 3 <br><br>
 *********************************************************************************************************************************************************************
+
+29 / jan / 2025 and <br><br>
+
+a. Studied Java String Handling documentation.<br>
+b. Studied Java Built-in functions documentation.<br>
+
+c. solved Java String Practice Problems <br>
+d. Java Built-in function Practice Problems <br><br>
+*********************************************************************************************************************************************************************
