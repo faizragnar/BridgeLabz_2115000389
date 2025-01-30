@@ -1,4 +1,4 @@
-public class Q8_CompareStrings {
+public class CompareStrings {
     public static void main(String[] args) {
         String str1 = "apple";
         String str2 = "banana";

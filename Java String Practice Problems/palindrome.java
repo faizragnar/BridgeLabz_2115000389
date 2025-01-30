@@ -1,7 +1,7 @@
-public class Q3palindrome{
+public class palindrome{
 	
 	boolean ispalindrome(String str){
-		StringBuilder sb =new StringBuilder(str);
+		
 		
 		
 		sb.reverse();
@@ -17,7 +17,7 @@ public class Q3palindrome{
 
 	public static void main(String[] args){
 		String str = "racecar";
-		Q3palindrome obj = new Q3palindrome();
+		palindrome obj = new palindrome();
 		
 		boolean flag =obj.ispalindrome(str);
 		

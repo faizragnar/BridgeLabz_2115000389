@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q1VowelAndCons{
+public class VowelAndCons{
 	
 	static void numberofVandC(String str){
 		int vowel=0;

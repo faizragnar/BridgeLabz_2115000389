@@ -1,4 +1,4 @@
-public class Q2Reverse{
+public class Reverse{
 	
 	String reverse(String str){
 		String reversed = "";
@@ -12,7 +12,7 @@ public class Q2Reverse{
 	public static void main(String[] args){
 	
 	String str = "hello world";
-	Q2Reverse obj = new Q2Reverse();
+	Reverse obj = new Reverse();
 	String reversed = obj.reverse(str);
 	
 	System.out.println(str+reversed);

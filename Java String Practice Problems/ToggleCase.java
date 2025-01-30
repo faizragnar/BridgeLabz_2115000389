@@ -1,4 +1,4 @@
-public class Q7_ToggleCase {
+public class ToggleCase {
     public static String toggleCase(String str) {
         StringBuilder sb = new StringBuilder();
         for (char c : str.toCharArray()) {

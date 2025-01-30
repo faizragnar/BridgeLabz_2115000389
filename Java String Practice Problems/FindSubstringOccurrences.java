@@ -1,4 +1,4 @@
-public class Q6_FindSubstringOccurrences {
+public class FindSubstringOccurrences {
     public static int countOccurrences(String str, String sub) {
         int count = 0, index = 0;
         while ((index = str.indexOf(sub, index)) != -1) {

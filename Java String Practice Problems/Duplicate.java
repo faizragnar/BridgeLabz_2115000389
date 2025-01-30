@@ -1,4 +1,4 @@
-public class Q4Duplicate{
+public class Duplicate{
 	String RemoveDupe(String str){
 		
 		char[] arr = str.toCharArray();
