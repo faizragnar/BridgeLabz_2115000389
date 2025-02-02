@@ -35,11 +35,30 @@ a. Studied Java Method documentation.<br>
 b. solved Java method practice problems Level 1, 2 and 3 <br><br>
 *********************************************************************************************************************************************************************
 
-29 / jan / 2025 and <br><br>
+29 / jan / 2025 <br><br>
 
 a. Studied Java String Handling documentation.<br>
 b. Studied Java Built-in functions documentation.<br>
 
 c. solved Java String Practice Problems <br>
 d. Java Built-in function Practice Problems <br><br>
+*********************************************************************************************************************************************************************
+
+31 / jan / 2025 and <br><br>
+
+a. Studied Java: Class and Object.<br>
+b. Studied Procedural vs Object-oriented Programming Language<br>
+
+c. solved java class and object Practice Problems <br>
+
+*********************************************************************************************************************************************************************
+2 / feb / 2025 and <br><br>
+
+a. Studied 
+- Java Constructors<br>
+- Instance vs. Class Variables <br>
+- Access Modifiers Concepts.<br>
+
+b. solved Java Constructors, Instance vs. Class Variables, Access Modifiers Practice problems <br>
+
 *********************************************************************************************************************************************************************
