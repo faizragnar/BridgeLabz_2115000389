@@ -5,7 +5,7 @@ class Employee{
 		private String Desgnation;
 		
 		public Employee(int id, String name,String Desgnation){
-			this .name=name;
+			this.name=name;
 			this.id=id;
 			this.Desgnation=Desgnation;
 		}

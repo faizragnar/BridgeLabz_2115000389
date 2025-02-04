@@ -3,14 +3,17 @@ class Student{
 		private final int roll ;
 		private String name;
 		private String grade;
-		
+		private static int NumberOfStudent=0;
 		public Student(int roll, String name,String grade){
 			this.roll=roll;
-			this .name=name;
+			this.name=name;
 			this.grade=grade;
+			NumberOfStudent++;
 		}
 		public static void  displayTotalStudents(){
-			System.out.println(UniversityName+"\n");
+			System.out.println("name of university - "+UniversityName);
+			System.out.println("Number Of Student - "+NumberOfStudent+"\n");
+			
 		}
 		public void display(){
 			if(this instanceof Student){

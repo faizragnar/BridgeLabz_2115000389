@@ -6,7 +6,7 @@ class Vehicle{
 		
 		public Vehicle(String registrationNumber , String ownerName,String vehicleType){
 			this.registrationNumber =registrationNumber ;
-			this .ownerName=ownerName;
+			this.ownerName=ownerName;
 			this.vehicleType=vehicleType;
 		}
 		public static void  updateRegistrationFee(){

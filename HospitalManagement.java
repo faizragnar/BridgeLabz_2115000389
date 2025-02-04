@@ -8,7 +8,7 @@ class Patient{
 		
 		public Patient(int patientID , String Name,int age,String ailment){
 			this.patientID =patientID ;
-			this .Name=Name;
+			this.Name=Name;
 			this.age=age;
 			this.ailment = ailment;
 			NumberOfPatient++;
