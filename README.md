@@ -1,64 +1,77 @@
-# BridgeLabz_2115000389
+<div class="entry">
+    <p class="date">📌 January 21, 2025</p>
+    <ul>
+        <li>Studied Java documentation 📖</li>
+        <li>Solved Programming Elements practice problems (Level 1 & Level 2) 🧩</li>
+    </ul>
+</div>
 
-21 / jan / 2025<br><br>
+<div class="entry">
+    <p class="date">📌 January 22, 2025</p>
+    <ul>
+        <li>Studied Java Control Flow documentation 🔄</li>
+        <li>Solved Java Control Flow practice problems (Level 1) 💡</li>
+    </ul>
+</div>
 
-a. Studied java documentation.<br>
+<div class="entry">
+    <p class="date">📌 January 23, 2025</p>
+    <ul>
+        <li>Solved Java Control Flow practice problems (Level 2 & Level 3) 🔥</li>
+    </ul>
+</div>
 
-b. solved Programming elements practice problems level 1 and level 2.<br><br>
-*********************************************************************************************************************************************************************
+<div class="entry">
+    <p class="date">📌 January 25, 2025</p>
+    <ul>
+        <li>Studied Java Arrays documentation 📚</li>
+        <li>Solved Array practice problems (Level 1 & Level 2) 🎯</li>
+    </ul>
+</div>
 
-22 / jan / 2025<br><br>
+<div class="entry">
+    <p class="date">📌 January 27-28, 2025</p>
+    <ul>
+        <li>Studied Java Methods documentation 🏗️</li>
+        <li>Solved Java Method practice problems (Level 1, Level 2 & Level 3) 🚀</li>
+    </ul>
+</div>
 
-a. Studied java control flow documentation.<br>
+<div class="entry">
+    <p class="date">📌 January 29, 2025</p>
+    <ul>
+        <li>Studied Java String Handling documentation 🔡</li>
+        <li>Studied Java Built-in Functions 📌</li>
+        <li>Solved Java String Practice Problems 📝</li>
+        <li>Solved Java Built-in Function Practice Problems ⚙️</li>
+    </ul>
+</div>
 
-b. solved java control flow practice problems level 1 <br><br>
-*********************************************************************************************************************************************************************
+<div class="entry">
+    <p class="date">📌 January 31, 2025</p>
+    <ul>
+        <li>Studied Java: Class & Object 👨‍💻</li>
+        <li>Compared Procedural vs. Object-Oriented Programming 🆚</li>
+        <li>Solved Java Class & Object Practice Problems 💻</li>
+    </ul>
+</div>
 
-23 / jan / 2025<br><br>
+<div class="entry">
+    <p class="date">📌 February 2, 2025</p>
+    <ul>
+        <li>Studied Java Constructors 🏗️</li>
+        <li>Studied Instance vs. Class Variables 🔄</li>
+        <li>Studied Access Modifiers Concepts 🔐</li>
+        <li>Solved Java Constructors, Instance vs. Class Variables, Access Modifiers Practice Problems 🛡️</li>
+    </ul>
+</div>
 
-
-a. solved java control flow practice problems level 2 and level 3<br><br>
-
-*********************************************************************************************************************************************************************
-
-25 / jan / 2025<br><br>
-
-a. Studied Java Array documentation.<br>
-
-b. solved Array practice problems Level 1 and Level 2 <br><br>
-*********************************************************************************************************************************************************************
-
-27 / jan / 2025 and 28 / jan / 2025 <br><br>
-
-a. Studied Java Method documentation.<br>
-
-b. solved Java method practice problems Level 1, 2 and 3 <br><br>
-*********************************************************************************************************************************************************************
-
-29 / jan / 2025 <br><br>
-
-a. Studied Java String Handling documentation.<br>
-b. Studied Java Built-in functions documentation.<br>
-
-c. solved Java String Practice Problems <br>
-d. Java Built-in function Practice Problems <br><br>
-*********************************************************************************************************************************************************************
-
-31 / jan / 2025 and <br><br>
-
-a. Studied Java: Class and Object.<br>
-b. Studied Procedural vs Object-oriented Programming Language<br>
-
-c. solved java class and object Practice Problems <br>
-
-*********************************************************************************************************************************************************************
-2 / feb / 2025 and <br><br>
-
-a. Studied 
-- Java Constructors<br>
-- Instance vs. Class Variables <br>
-- Access Modifiers Concepts.<br>
-
-b. solved Java Constructors, Instance vs. Class Variables, Access Modifiers Practice problems <br>
-
-*********************************************************************************************************************************************************************
+<div class="entry">
+    <p class="date">📌 February 4, 2025</p>
+    <ul>
+        
+        <li>Studied Static,this,final keyword</li>
+        <li>Studied instanceof operator </li>
+        <li>Solved  Static,this,final keyword and instanceof operator Practice Problems 🛡️</li>
+    </ul>
+</div>
