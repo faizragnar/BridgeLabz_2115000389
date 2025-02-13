@@ -160,9 +160,7 @@
         <li>Studied Stack and Queue </li>
         <li>Studied HashMap </li>
         <li>Solved Problems for Hash Maps & Hash Functions</li>       
-        <li>Solved Problems for Stacks and Queues</li>
-
-        
+        <li>Solved Problems for Stacks and Queues</li> 
     </ul>
 </div>
 <br>
