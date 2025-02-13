@@ -108,3 +108,64 @@
 <hr>
 
 <br><br>
+<div class="entry">
+    <p class="date">📌 February 5, 2025</p>
+    <ul>
+        <li>Studied Class, object and sequence diagrams</li>
+        <li>Solved  Object modeling practice problems </li>
+    </ul>
+</div>
+<br>
+<hr>
+
+<br><br>
+<div class="entry">
+    <p class="date">📌 February 7, 2025</p>
+    <ul>
+        <li>Studied Inheritance </li>
+        <li>Studied overriding and overloading </li>
+        <li>Solved  Inheritance Practice Problems </li>
+    </ul>
+</div>
+<br>
+<hr>
+
+<br><br>
+<div class="entry">
+    <p class="date">📌 February 10, 2025</p>
+    <ul>
+        <li>Studied  Encapsulation, Polymorphism, Interface and Abstract Class </li>
+        <li>implementing overriding and overloading</li>
+        <li>Solved Encapsulation, Polymorphism, Interface and Abstract Class Practice Problems </li>
+    </ul>
+</div>
+<br>
+<hr>
+
+<br><br>
+<div class="entry">
+    <p class="date">📌 February 11, 2025</p>
+    <ul>
+        <li>Studied Linked List </li>
+        <li>Solved LinkedList Practice Problems </li>
+    </ul>
+</div>
+<br>
+<hr>
+
+<br><br>
+<div class="entry">
+    <p class="date">📌 February 13, 2025</p>
+    <ul>
+        <li>Studied Stack and Queue </li>
+        <li>Studied HashMap </li>
+        <li>Solved Problems for Hash Maps & Hash Functions</li>       
+        <li>Solved Problems for Stacks and Queues</li>
+
+        
+    </ul>
+</div>
+<br>
+<hr>
+
+<br><br>
