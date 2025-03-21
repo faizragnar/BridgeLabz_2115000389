@@ -11,4 +11,4 @@ function findRepeatedDigits() {
     return repeatedDigits;
 }
 
-console.log("Digits repeated twice (like 33, 77):", findRepeatedDigits());
+console.log("Digits repeated twice :", findRepeatedDigits());
