@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e631c529-ea52-4f16-a075-4a1e6ccb052f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/array/RepeatedDigits.js" beforeDir="false" afterPath="$PROJECT_DIR$/array/RepeatedDigits.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2uWQgYrk9STvjiWZ6e1k6uPvhka" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Node.js.BirthMonthSimulation.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.DieRollSimulation.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.PrimeFactorization.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.RandomNumbers.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.RepeatedDigits.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.checkKey.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.coinFlip.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.dateCheck.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.generateRandomNumbers.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.primeInRange.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.primeNumber.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Feature__19.mar.2025&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ayan/IdeaProjects/Spring_AddressBookApp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ayan\Desktop\cg\BridgeLabz_2115000389\map" />
+      <recent name="C:\Users\ayan\Desktop\cg\BridgeLabz_2115000389\array" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e631c529-ea52-4f16-a075-4a1e6ccb052f" name="Changes" comment="" />
+      <created>1742361961560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742361961560</updated>
+      <workItem from="1742361962619" duration="8131000" />
+      <workItem from="1742448259489" duration="151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
